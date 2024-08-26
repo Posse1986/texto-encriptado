@@ -30,7 +30,7 @@ También incluye la funcionalidad para desencriptar un mensaje encriptado, devol
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tuusuario/encriptador-de-texto.git
+    git clone https://github.com/Posse1986/texto-encriptado.git
     ```
 
 3. Abre el archivo `index.html` en tu navegador web favorito.
