@@ -33,11 +33,6 @@ También incluye la funcionalidad para desencriptar un mensaje encriptado, devol
     git clone https://github.com/tuusuario/encriptador-de-texto.git
     ```
 
-2. Navega a la carpeta del proyecto:
-    ```bash
-    cd encriptador-de-texto
-    ```
-
 3. Abre el archivo `index.html` en tu navegador web favorito.
 
 4. Ingresa el texto que deseas encriptar en el primer cuadro de texto.
